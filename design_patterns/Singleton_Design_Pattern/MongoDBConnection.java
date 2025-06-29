@@ -1,4 +1,4 @@
-package Singleton_Pattern;
+package Singleton_Design_Pattern;
 
 public class MongoDBConnection {
 
